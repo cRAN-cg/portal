@@ -2,5 +2,9 @@
 <br/>
 P O R T A L
 <hr/>
-The repository contains the **portal** project entry for hashhacks.
-Details coming soon.:smile:
+<h2 style="font-size=50px;color:0071BC;">A location based events and travel management app that lets ypou explore unknown places</h2>
+
+<p>When visiting an unknown place, our app will check the location of the user and suggest what all activities and events can be done around the user.</p>
+<p>The user acn plan the trip in the app and organise and personalise the schedule during their stay.</p>
+
+*Never be afraid to explore!:smile:*

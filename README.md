@@ -7,4 +7,4 @@ P O R T A L
 <p>When visiting an unknown place, our app will check the location of the user and suggest what all activities and events can be done around the user.</p>
 <p>The user can plan the trip in the app and organise and personalise the schedule during their stay.</p>
 
-*Never be afraid to explore!*:smile:
+*Never be afraid to explore!*:wink:

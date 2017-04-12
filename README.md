@@ -1,7 +1,6 @@
-
-portal
-======================
+![logoportal](https://cloud.githubusercontent.com/assets/17319815/24962072/67243e70-1fb8-11e7-945f-0fe94a038bb7.png)
+<br/>
+P O R T A L
+<hr/>
 The repository contains the **portal** project entry for hashhacks.
 Details coming soon.:smile:
-
-![logo](https://cloud.githubusercontent.com/assets/17319815/24961724/5b1ad3ec-1fb7-11e7-9e3d-5739e4c1b63a.png)

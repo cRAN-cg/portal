@@ -8,3 +8,5 @@ P O R T A L
 <p>The user can plan the trip in the app and organise and personalise the schedule during their stay.</p>
 
 *Never be afraid to explore!*:wink:
+
+![screenshot](https://cloud.githubusercontent.com/assets/17319815/24988940/b3ffc796-2026-11e7-919f-1315755f8ea4.png)

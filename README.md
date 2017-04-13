@@ -9,4 +9,5 @@ P O R T A L
 
 *Never be afraid to explore!*:wink:
 
-![screenshot](https://cloud.githubusercontent.com/assets/17319815/24988940/b3ffc796-2026-11e7-919f-1315755f8ea4.png)
+![portal_ios_ui01](https://cloud.githubusercontent.com/assets/17319815/24989098/d1a763a2-2027-11e7-9a33-56aceb99734b.gif)
+

@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Maps
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <sebm-google-map
+  [latitude]="latitude"
+  [longitude]="longitude"
+  [zoom]="15"
+  [backgroundColor]="red">
+    <sebm-google-map-marker
+      [latitude]="latitude"
+      [longitude]="longitude">
+    </sebm-google-map-marker>
+  </sebm-google-map>
+
+</ion-content>

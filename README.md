@@ -9,8 +9,6 @@ P O R T A L
 
 *Never be afraid to explore!*:wink:
 
-![portal_ios_ui01](https://cloud.githubusercontent.com/assets/17319815/24989098/d1a763a2-2027-11e7-9a33-56aceb99734b.gif)
-
-![portal_android_ui01](https://cloud.githubusercontent.com/assets/17319815/24989166/5cbcf088-2028-11e7-83bb-09854b8a4ab3.gif)
+![portal_ios_ui01](https://cloud.githubusercontent.com/assets/17319815/24989098/d1a763a2-2027-11e7-9a33-56aceb99734b.gif)![portal_android_ui01](https://cloud.githubusercontent.com/assets/17319815/24989166/5cbcf088-2028-11e7-83bb-09854b8a4ab3.gif)
 
 

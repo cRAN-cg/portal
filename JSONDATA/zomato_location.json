@@ -1,0 +1,431 @@
+{
+  "location": {
+    "entity_type": "",
+    "entity_id": 0,
+    "title": "Chandni Chowk",
+    "latitude": "28.6561400000",
+    "longitude": "77.2304800000",
+    "city_id": 1,
+    "city_name": "Delhi NCR",
+    "country_id": 1,
+    "country_name": "India"
+  },
+  "popularity": {
+    "popularity": "4.21",
+    "nightlife_index": "1.00",
+    "nearby_res": [
+      "463",
+      "993",
+      "6677",
+      "7545",
+      "481",
+      "9165",
+      "305598",
+      "303642",
+      "1155"
+    ],
+    "top_cuisines": [
+      "North Indian",
+      "Street Food",
+      "Mughlai",
+      "Mithai",
+      "Fast Food"
+    ],
+    "popularity_res": "100",
+    "nightlife_res": "10",
+    "subzone": "Chandni Chowk",
+    "subzone_id": 210,
+    "city": "Delhi NCR"
+  },
+  "link": "https://www.zomato.com/ncr/chandni-chowk-delhi-restaurants",
+  "nearby_restaurants": [
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 463
+        },
+        "apikey": "b425cb54ebb817f01b988d749f2150de",
+        "id": "463",
+        "name": "Karim's",
+        "url": "https://www.zomato.com/ncr/karims-jama-masjid-new-delhi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "16, Gali Kababian, Jama Masjid, New Delhi",
+          "locality": "Jama Masjid",
+          "city": "New Delhi",
+          "city_id": 1,
+          "latitude": "28.6493933000",
+          "longitude": "77.2336300000",
+          "zipcode": "0",
+          "country_id": 1,
+          "locality_verbose": "Jama Masjid, New Delhi"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Mughlai, North Indian",
+        "average_cost_for_two": 800,
+        "price_range": 2,
+        "currency": "Rs.",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/chains/1/461/6aee74a2c205483dda5c09e586cbfd02_featured_v2.jpg",
+        "user_rating": {
+          "aggregate_rating": "4.0",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "4685"
+        },
+        "photos_url": "https://www.zomato.com/ncr/karims-jama-masjid-new-delhi/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/ncr/karims-jama-masjid-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/chains/1/461/6aee74a2c205483dda5c09e586cbfd02_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/463",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/ncr/karims-jama-masjid-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 993
+        },
+        "apikey": "b425cb54ebb817f01b988d749f2150de",
+        "id": "993",
+        "name": "Al Jawahar",
+        "url": "https://www.zomato.com/ncr/al-jawahar-jama-masjid-new-delhi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "8, Jama Masjid - Matia Mahal Road, Matia Mahal, Opposite Gate 1, Jama Masjid, New Delhi",
+          "locality": "Jama Masjid",
+          "city": "New Delhi",
+          "city_id": 1,
+          "latitude": "28.6496214000",
+          "longitude": "77.2327023000",
+          "zipcode": "0",
+          "country_id": 1,
+          "locality_verbose": "Jama Masjid, New Delhi"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Mughlai, North Indian",
+        "average_cost_for_two": 600,
+        "price_range": 2,
+        "currency": "Rs.",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/3/993/b06777764798222533c9f872a225d167_featured_v2.jpg",
+        "user_rating": {
+          "aggregate_rating": "3.8",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "1585"
+        },
+        "photos_url": "https://www.zomato.com/ncr/al-jawahar-jama-masjid-new-delhi/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/ncr/al-jawahar-jama-masjid-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/3/993/b06777764798222533c9f872a225d167_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/993",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/ncr/al-jawahar-jama-masjid-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 6677
+        },
+        "apikey": "b425cb54ebb817f01b988d749f2150de",
+        "id": "6677",
+        "name": "Kake Di Hatti",
+        "url": "https://www.zomato.com/ncr/kake-di-hatti-chandni-chowk-new-delhi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "654-666, Church Mission Road, Fatehpuri, Chandni Chowk, New Delhi",
+          "locality": "Chandni Chowk",
+          "city": "New Delhi",
+          "city_id": 1,
+          "latitude": "28.6580221000",
+          "longitude": "77.2233158000",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Chandni Chowk, New Delhi"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian",
+        "average_cost_for_two": 300,
+        "price_range": 1,
+        "currency": "Rs.",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/7/6677/be78631605a71313c724a4e5a1473cad_featured_v2.jpg",
+        "user_rating": {
+          "aggregate_rating": "4.1",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "1603"
+        },
+        "photos_url": "https://www.zomato.com/ncr/kake-di-hatti-chandni-chowk-new-delhi/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/ncr/kake-di-hatti-chandni-chowk-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/7/6677/be78631605a71313c724a4e5a1473cad_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/6677",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/ncr/kake-di-hatti-chandni-chowk-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 7545
+        },
+        "apikey": "b425cb54ebb817f01b988d749f2150de",
+        "id": "7545",
+        "name": "Natraj Dahi Bhalle Wala",
+        "url": "https://www.zomato.com/ncr/natraj-dahi-bhalle-wala-chandni-chowk-new-delhi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "1396, Main Road Near Central Bank, Opposite Paranthe Wali Gali, Chandni Chowk, New Delhi",
+          "locality": "Chandni Chowk",
+          "city": "New Delhi",
+          "city_id": 1,
+          "latitude": "28.6561992000",
+          "longitude": "77.2305013000",
+          "zipcode": "0",
+          "country_id": 1,
+          "locality_verbose": "Chandni Chowk, New Delhi"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Street Food",
+        "average_cost_for_two": 100,
+        "price_range": 1,
+        "currency": "Rs.",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/5/7545/efe03e0057fa33f8a027f9bfb81132f1_featured_v2.jpg",
+        "user_rating": {
+          "aggregate_rating": "3.9",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "1487"
+        },
+        "photos_url": "https://www.zomato.com/ncr/natraj-dahi-bhalle-wala-chandni-chowk-new-delhi/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/ncr/natraj-dahi-bhalle-wala-chandni-chowk-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/5/7545/efe03e0057fa33f8a027f9bfb81132f1_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/7545",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/ncr/natraj-dahi-bhalle-wala-chandni-chowk-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 481
+        },
+        "apikey": "b425cb54ebb817f01b988d749f2150de",
+        "id": "481",
+        "name": "Moti Mahal",
+        "url": "https://www.zomato.com/ncr/moti-mahal-daryaganj-delhi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "3703, Netaji Subhash Marg, Daryaganj, New Delhi",
+          "locality": "Daryaganj",
+          "city": "New Delhi",
+          "city_id": 1,
+          "latitude": "28.6461938000",
+          "longitude": "77.2402010000",
+          "zipcode": "0",
+          "country_id": 1,
+          "locality_verbose": "Daryaganj, New Delhi"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "North Indian, Chinese",
+        "average_cost_for_two": 1100,
+        "price_range": 3,
+        "currency": "Rs.",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/1/481/49621661fc7dbd0d0be0c7faa94b0612_featured_v2.jpg",
+        "user_rating": {
+          "aggregate_rating": "3.6",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "711"
+        },
+        "photos_url": "https://www.zomato.com/ncr/moti-mahal-daryaganj-delhi/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/ncr/moti-mahal-daryaganj-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/1/481/49621661fc7dbd0d0be0c7faa94b0612_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/481",
+        "has_table_booking": 1,
+        "book_url": "https://www.zomato.com/ncr/moti-mahal-daryaganj-delhi/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "events_url": "https://www.zomato.com/ncr/moti-mahal-daryaganj-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 9165
+        },
+        "apikey": "b425cb54ebb817f01b988d749f2150de",
+        "id": "9165",
+        "name": "Old Famous Jalebi Wala",
+        "url": "https://www.zomato.com/ncr/old-famous-jalebi-wala-chandni-chowk-new-delhi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Dariba Kalan, Chandni Chowk, New Delhi",
+          "locality": "Chandni Chowk",
+          "city": "New Delhi",
+          "city_id": 1,
+          "latitude": "28.6561321000",
+          "longitude": "77.2335550000",
+          "zipcode": "0",
+          "country_id": 1,
+          "locality_verbose": "Chandni Chowk, New Delhi"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Mithai, Street Food",
+        "average_cost_for_two": 100,
+        "price_range": 1,
+        "currency": "Rs.",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/5/9165/4f365730df2a9cf0413253fea1bb7bed_featured_v2.JPG",
+        "user_rating": {
+          "aggregate_rating": "3.9",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "751"
+        },
+        "photos_url": "https://www.zomato.com/ncr/old-famous-jalebi-wala-chandni-chowk-new-delhi/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/ncr/old-famous-jalebi-wala-chandni-chowk-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/5/9165/4f365730df2a9cf0413253fea1bb7bed_featured_v2.JPG",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/9165",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/ncr/old-famous-jalebi-wala-chandni-chowk-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 305598
+        },
+        "apikey": "b425cb54ebb817f01b988d749f2150de",
+        "id": "305598",
+        "name": "Aslam Chicken",
+        "url": "https://www.zomato.com/ncr/aslam-chicken-jama-masjid-new-delhi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "Jama Masjid, New Delhi",
+          "locality": "Jama Masjid",
+          "city": "New Delhi",
+          "city_id": 1,
+          "latitude": "28.6486247000",
+          "longitude": "77.2335385000",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Jama Masjid, New Delhi"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Mughlai",
+        "average_cost_for_two": 400,
+        "price_range": 1,
+        "currency": "Rs.",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/8/305598/6fcefce33d285c1277abbd1eb0730ed3_featured_v2.jpg",
+        "user_rating": {
+          "aggregate_rating": "3.9",
+          "rating_text": "Good",
+          "rating_color": "9ACD32",
+          "votes": "635"
+        },
+        "photos_url": "https://www.zomato.com/ncr/aslam-chicken-jama-masjid-new-delhi/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/ncr/aslam-chicken-jama-masjid-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/8/305598/6fcefce33d285c1277abbd1eb0730ed3_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/305598",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/ncr/aslam-chicken-jama-masjid-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 303642
+        },
+        "apikey": "b425cb54ebb817f01b988d749f2150de",
+        "id": "303642",
+        "name": "Kuremal Mohan Lal Kulfi Wale",
+        "url": "https://www.zomato.com/ncr/kuremal-mohan-lal-kulfi-wale-chawri-bazar-new-delhi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "526, Kucha Pati Ram, Bazar Sita Ram, Near Chawri Bazar Metro Station, Chawri Bazar, New Delhi",
+          "locality": "Chawri Bazar",
+          "city": "New Delhi",
+          "city_id": 1,
+          "latitude": "28.6477617000",
+          "longitude": "77.2270433000",
+          "zipcode": "",
+          "country_id": 1,
+          "locality_verbose": "Chawri Bazar, New Delhi"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Ice Cream",
+        "average_cost_for_two": 200,
+        "price_range": 1,
+        "currency": "Rs.",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/2/303642/7a4d271e4ae08bf5251e8a247f6b25f4_featured_v2.jpg",
+        "user_rating": {
+          "aggregate_rating": "4.6",
+          "rating_text": "Excellent",
+          "rating_color": "3F7E00",
+          "votes": "545"
+        },
+        "photos_url": "https://www.zomato.com/ncr/kuremal-mohan-lal-kulfi-wale-chawri-bazar-new-delhi/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/ncr/kuremal-mohan-lal-kulfi-wale-chawri-bazar-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/2/303642/7a4d271e4ae08bf5251e8a247f6b25f4_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/303642",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/ncr/kuremal-mohan-lal-kulfi-wale-chawri-bazar-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      }
+    },
+    {
+      "restaurant": {
+        "R": {
+          "res_id": 1155
+        },
+        "apikey": "b425cb54ebb817f01b988d749f2150de",
+        "id": "1155",
+        "name": "Giani's di Hatti",
+        "url": "https://www.zomato.com/ncr/gianis-di-hatti-chandni-chowk-new-delhi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
+        "location": {
+          "address": "651/52, Church Mission Road, Fatehpuri, Chandni Chowk, New Delhi",
+          "locality": "Chandni Chowk",
+          "city": "New Delhi",
+          "city_id": 1,
+          "latitude": "28.6579744000",
+          "longitude": "77.2233575000",
+          "zipcode": "0",
+          "country_id": 1,
+          "locality_verbose": "Chandni Chowk, New Delhi"
+        },
+        "switch_to_order_menu": 0,
+        "cuisines": "Ice Cream, Mithai, North Indian, Street Food",
+        "average_cost_for_two": 150,
+        "price_range": 1,
+        "currency": "Rs.",
+        "offers": [],
+        "thumb": "https://b.zmtcdn.com/data/pictures/5/1155/54f6683b02960bcfd9190fc64c23a5f7_featured_v2.jpg",
+        "user_rating": {
+          "aggregate_rating": "4.3",
+          "rating_text": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "521"
+        },
+        "photos_url": "https://www.zomato.com/ncr/gianis-di-hatti-chandni-chowk-new-delhi/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
+        "menu_url": "https://www.zomato.com/ncr/gianis-di-hatti-chandni-chowk-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
+        "featured_image": "https://b.zmtcdn.com/data/pictures/5/1155/54f6683b02960bcfd9190fc64c23a5f7_featured_v2.jpg",
+        "has_online_delivery": 0,
+        "is_delivering_now": 0,
+        "deeplink": "zomato://restaurant/1155",
+        "has_table_booking": 0,
+        "events_url": "https://www.zomato.com/ncr/gianis-di-hatti-chandni-chowk-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      }
+    }
+  ]
+}
